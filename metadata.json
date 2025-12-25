@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SST Vision Pro - Assistente de Laudos",
+  "description": "Assistente IA para geração de Laudos Técnicos de SST baseados em fotos de canteiros de obras, seguindo as Normas Regulamentadoras (NRs) brasileiras.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
